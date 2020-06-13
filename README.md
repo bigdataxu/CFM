@@ -1,5 +1,6 @@
 # CFM
-CFM algorithm programe, test data and user guide
+CFM algorithm programe, test data and user guide.
+
 If you use this algorithm, please cite the following literature
 @article{xu2016finding,
   title={Finding overlapping community from social networks based on community forest model},
